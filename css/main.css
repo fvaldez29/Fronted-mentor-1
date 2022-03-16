@@ -22,7 +22,6 @@ main{
     margin: 0 auto;
     top: calc(210px - 50px);
     left: calc(50% - 190px);
-    padding: 0 20px;
 }
 .main-container{
     width: 90%;
